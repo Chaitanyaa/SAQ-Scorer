@@ -1,0 +1,28 @@
+What is a Pointer ?
+f:	A pointer is a variable that holds the address of another variable.
+s:  	The address of the location in memory where the function code resides.
+s:  	A pointer is a variable that keeps the address of another variable.
+s:	A pointer is a element that keeps the address of another variable.
+
+What is a Variable ?
+f:	Variable is a location in memory that can store values
+s:	A variable is a place in memory which keeps values
+s:	A variable is a area in memory  that contains values
+s:	a location in memory where data can be stored and retrieved
+
+
+//What is a Stack ?
+f:  	A stack is an abstract data type that is based on the principle that the last element inserted into the stack will be the first element removed from the stack.
+s:  	Stack is a data structure that is based on the principle that the last element inserted into the stack will be the first element removed from the stack.
+s:  	Stack is a data storage element that is based on the principle that the last inserted element into the stack will be the first removed element from the stack.
+s:  	A stack is an abstract data type that is based on the rule that the last element inserted  should be the first element removed from stack.
+
+What is function signature ?
+f:	A function signature is a declaration of the function that includes the parameter types and the number of parameters.
+s:	A function signature is the return type of a function, its name, and the number and type of its parameters.
+
+What is function pointer ?
+f:	Function Pointers are pointers, i.e. variables, which point to the address of a function.
+s:	A pointer to a function itself, contains the address of the function and can be used to call that function
+s:	A function pointer is a pointer to a function. It can be used in substitution for calling a function.
+s:      A function pointer is a pointer that contains the address of the  function in memory.
