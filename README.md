@@ -6,7 +6,7 @@
 
 
 
-# <a href = "">Automatic Assessment for Marking Student Short Answer</a><br/>
+# <a href = "http://saqscorer.azurewebsites.net/Final/">Automatic Assessment for Marking Student Short Answer</a><br/>
 Click the above link !!.....<br/>
  
 Depending on the login credential used the user is redirected either to admin interface or student interface.<br/>
